@@ -1,0 +1,28 @@
+.productListContainer {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 20px;
+  padding: 6px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.field {
+  flex-basis: 25%;
+  font-size: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-family: "Courier New", Courier, monospace;
+}

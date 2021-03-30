@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import vendingMachineReducer from '../screens/vendingMachineSlice';
 
 export default configureStore({
   reducer: {
-    counter: counterReducer,
+    vendingMachine: vendingMachineReducer,
   },
 });

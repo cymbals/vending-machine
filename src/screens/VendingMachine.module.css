@@ -1,0 +1,25 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.productListContainer {
+  flex-basis: 75%;
+  border-style: solid;
+}
+
+.changeAvailableContainer {
+  flex-basis: 25%;
+  border-style: solid;
+}
+
+.restockingModeButton {
+  width: 20%;
+  padding: 6px;
+  margin: 6px;
+}
