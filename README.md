@@ -1,6 +1,6 @@
 A simple vending machine using React and Redux
 
-## Run
+![alt text](https://github.com/Cymbals/vending-machine/blob/main/screenshot.png?raw=true)
 
 In the project directory, you can run:
 
